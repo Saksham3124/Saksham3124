@@ -7,4 +7,4 @@ Interested in solving business problems using data.
 - Focus: Data Analysis, Dashboards, Business Insights
 
 ## 📫 Connect
-[LinkedIn] (https://www.linkedin.com/in/kumarsaksham/) • [Email](mailto:kumarsaksham560@gmail.com)
+[LinkedIn] (https://www.linkedin.com/in/kumarsaksham/) • [Email] (kumarsaksham560@gmail.com)
