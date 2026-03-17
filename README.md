@@ -1,15 +1,10 @@
-# Hi, I'm Kumar Saksham 👋
+## Hi, I'm Saksham
 
-📍 Jaipur, Rajasthan | BIT Mesra '26 (ECE)
-🎯 Aspiring Data & Business Analyst
+Aspiring Data Analyst with skills in SQL, Python, and Power BI.
+Interested in solving business problems using data.
 
-## 🛠️ Skills
-Python • SQL • Power BI • EDA • MATLAB • Excel
-
-## 📊 Projects
-- [Superstore KPI Dashboard](link) — Python, SQL, Power BI
-- [Financial Analytics Platform](link) — Django, Python, SQL
-- [Content Management System](link) — React, Appwrite
+- Skilled in: SQL, Python (Pandas), Power BI
+- Focus: Data Analysis, Dashboards, Business Insights
 
 ## 📫 Connect
 [LinkedIn] (https://www.linkedin.com/in/kumarsaksham/) • [Email](mailto:kumarsaksham560@gmail.com)
