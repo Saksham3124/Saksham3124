@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kumar Saksham 👋
 
-<!--
-**Saksham3124/Saksham3124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Jaipur, Rajasthan | BIT Mesra '26 (ECE)
+🎯 Aspiring Data & Business Analyst
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+Python • SQL • Power BI • EDA • MATLAB • Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- [Superstore KPI Dashboard](link) — Python, SQL, Power BI
+- [Financial Analytics Platform](link) — Django, Python, SQL
+- [Content Management System](link) — React, Appwrite
+
+## 📫 Connect
+[LinkedIn] (https://www.linkedin.com/in/kumarsaksham/) • [Email](mailto:kumarsaksham560@gmail.com)
