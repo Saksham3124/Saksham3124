@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kumar Saksham</h1>
 <h3 align="center">Aspiring Data Analyst | B.Tech @ BIT Mesra</h3>
-<h4 align="center">I build end-to-end data pipelines, analytics systems, and dashboards that turn raw data into decisions.</h4>
+<h4 align="center">Turning raw data into insights through analytics, SQL, and dashboards.</h4>
 
 <br/>
 
@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently enhancing my **AI Expense Tracker** with receipt OCR and PDF export
-- 🤝 Looking to collaborate on **data engineering pipelines, Django apps, or Python + analytics projects**
-- 🌱 Currently learning **Django REST Framework, Apache Kafka, and cloud deployment (AWS / Render)**
-- 💬 Ask me about **SQL window functions, Python data pipelines, Power BI, Tableau, anomaly detection**
+- 🔭 Currently building **end-to-end analytics projects** in GST fraud detection and railway operations data
+- 🤝 Looking to collaborate on **data analysis, business intelligence, SQL, or dashboard projects**
+- 🌱 Currently learning **statistical modeling, data science, and business analytics**
+- 💬 Ask me about **SQL window functions, anomaly detection, Power BI, Tableau, Python for data analysis**
 - ⚡ Fun fact: I built a **3-layer GST fraud detection system** that flags 15% of 50,000 invoices — using pure SQL and statistics, no ML
 
 ---
@@ -22,15 +22,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frameworks & Libraries**
+**Data & Analytics Libraries**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Databases**
 
@@ -41,14 +38,12 @@
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![APScheduler](https://img.shields.io/badge/APScheduler-Pipeline-4CAF50?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -65,14 +60,14 @@
 
 ---
 
-### 💰 [AI-Powered Expense Tracker](https://github.com/Saksham3124/Expense_tracker)
-> Full-stack Django web app with ML-based expense categorization and spending predictions
+### 💰 [Spending Analytics & Prediction System](https://github.com/Saksham3124/Expense_tracker)
+> ML-powered personal finance analytics tool with category prediction, budget monitoring, and spending forecasting
 
-- **Naive Bayes + TF-IDF** classifier auto-categorizes expenses from description text
-- Predicts next month's spending from historical data to help users plan budgets
-- Budget alerts, interactive Chart.js visualizations (pie + line charts), dark/light mode
-- Mobile-responsive UI built with **Tailwind CSS**
-- **Stack:** Django · Python · Scikit-learn · TailwindCSS · Chart.js · SQLite
+- **Naive Bayes + TF-IDF** classifier predicts expense categories from transaction descriptions
+- **Month-over-month spending forecasting** based on historical patterns to support budget planning
+- Visual analytics dashboard — category breakdown (pie chart) and spending trend (line chart)
+- Budget threshold monitoring with automated alerts when limits are exceeded
+- **Stack:** Python · Scikit-learn · SQLite · Pandas
 
 ---
 
@@ -106,7 +101,7 @@
   <a href="https://linkedin.com/in/kumarsaksham" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kumar_Saksham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:kumarsaksham560@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#8de6f8e0ecfffeece6fee5ece0b8bbbdcdeae0ece4e1a3eee2e0">
     <img src="https://img.shields.io/badge/Email-kumarsaksham560@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://public.tableau.com/app/profile/kumar.saksham2703" target="_blank">
@@ -116,4 +111,4 @@
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/Saksham3124">Saksham3124</a></p>
+<p align="center">⭐️ From <a href="http
