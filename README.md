@@ -82,6 +82,17 @@
 
 ---
 
+### 📊 [Superstore Business KPI Dashboard](https://github.com/Saksham3124/Superstore-KPI-Dashboard)
+> End-to-end business analytics on 4 years of retail sales data — from raw CSV to decision-ready Power BI dashboard
+
+- Analyzed **$2.30M in sales (2014–2017)** with **~52% YoY growth** across regions and categories
+- Identified **loss-making products** (Tables & Bookcases) despite high sales volume using SQL queries
+- Built KPI dashboard tracking Sales, Profit, Margin, and Quantity with region & category filters
+- **West region** drives 31.58% of revenue — Technology leads in both sales and profitability
+- **Stack:** Python · Pandas · SQLite · Power BI
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="left">
