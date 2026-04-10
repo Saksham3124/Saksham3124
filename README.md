@@ -99,7 +99,7 @@
   <a href="https://linkedin.com/in/kumarsaksham" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kumar_Saksham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="/cdn-cgi/l/email-protection#8de6f8e0ecfffeece6fee5ece0b8bbbdcdeae0ece4e1a3eee2e0">
+  <a href="mailto:kumarsaksham560@gmail.com">
     <img src="https://img.shields.io/badge/Email-kumarsaksham560@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://public.tableau.com/app/profile/kumar.saksham2703" target="_blank">
