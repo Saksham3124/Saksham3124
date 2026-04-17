@@ -60,7 +60,7 @@
 
 ---
 
-### 💰 [Spending Analytics & Prediction System](https://github.com/Saksham3124/Expense_tracker)
+### 💰 [Spending Analytics & Forcasting System](https://github.com/Saksham3124/Expense_tracker)
 > ML-powered personal finance analytics tool with category prediction, budget monitoring, and spending forecasting
 
 - **Naive Bayes + TF-IDF** classifier predicts expense categories from transaction descriptions
