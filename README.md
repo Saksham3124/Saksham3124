@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumar Saksham</h1>
-<h3 align="center">Aspiring Data Analyst | B.Tech @ BIT Mesra</h3>
+<h3 align="center">Data Analyst | B.Tech in ECE, BIT Mesra (2026)</h3>
 <h4 align="center">Turning raw data into insights through analytics, SQL, and dashboards.</h4>
 
 <br/>
