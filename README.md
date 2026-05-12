@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **end-to-end analytics projects** in GST fraud detection and railway operations data
+- 🔭 Built end-to-end analytics systems in compliance, operations, and finance — actively seeking analyst roles
 - 🤝 Looking to collaborate on **data analysis, business intelligence, SQL, or dashboard projects**
 - 🌱 Currently learning **statistical modeling, data science, and business analytics**
 - 💬 Ask me about **SQL window functions, anomaly detection, Power BI, Tableau, Python for data analysis**
