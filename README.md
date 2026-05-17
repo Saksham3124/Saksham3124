@@ -10,7 +10,7 @@
 
 - 🔭 Built end-to-end analytics systems in compliance, operations, and finance — actively seeking analyst roles
 - 🤝 Looking to collaborate on **data analysis, business intelligence, SQL, or dashboard projects**
-- 🌱 Currently learning **statistical modeling, data science, and business analytics**
+- 📍 Open to Data Analyst roles
 - 💬 Ask me about **SQL window functions, anomaly detection, Power BI, Tableau, Python for data analysis**
 - ⚡ Fun fact: I built a **3-layer GST fraud detection system** that flags 15% of 50,000 invoices — using pure SQL and statistics, no ML
 
@@ -60,14 +60,14 @@
 
 ---
 
-### 💰 [Spending Analytics & Forcasting System](https://github.com/Saksham3124/Expense_tracker)
-> ML-powered personal finance analytics tool with category prediction, budget monitoring, and spending forecasting
+### 🛒 [Olist E-Commerce Delivery Performance Analysis](https://github.com/Saksham3124/olist-ecommerce-delivery-analysis)
+> End-to-end SQL analysis of 100,000+ orders identifying delivery failures, geographic risk patterns, and seller accountability gaps
 
-- **Naive Bayes + TF-IDF** classifier predicts expense categories from transaction descriptions
-- **Month-over-month spending forecasting** based on historical patterns to support budget planning
-- Visual analytics dashboard — category breakdown (pie chart) and spending trend (line chart)
-- Budget threshold monitoring with automated alerts when limits are exceeded
-- **Stack:** Python · Scikit-learn · SQLite · Pandas
+- **8.11% late delivery rate** across 96,470 delivered orders — Northeast Brazil states show 2–3x the national average
+- Late delivery causes a **40% collapse in review scores** (4.29 → 2.57), directly quantifying business impact
+- Seller risk tiering using CASE-based classification across delay rate, revenue exposure, and review impact — built on a 7-table normalized PostgreSQL schema
+- Live **Tableau dashboard** with state-level map, monthly trend, and seller risk breakdown — [View Dashboard →](https://public.tableau.com/app/profile/kumar.saksham2703/viz/OlistDeliveryPerformanceAnalysis_17789432992130/OlistDeliverryAnalysis)
+- **Stack:** PostgreSQL · SQL · Tableau Public
 
 ---
 
@@ -79,17 +79,6 @@
 - Dual storage — rolling CSV (last 10 records/train) + optional PostgreSQL
 - Interactive **Power BI dashboard** with delay trends and risk distribution
 - **Stack:** Python · Pandas · APScheduler · PostgreSQL · SQLAlchemy · Power BI
-
----
-
-### 📊 [Superstore Business KPI Dashboard](https://github.com/Saksham3124/Superstore-KPI-Dashboard)
-> End-to-end business analytics on 4 years of retail sales data — from raw CSV to decision-ready Power BI dashboard
-
-- Analyzed **$2.30M in sales (2014–2017)** with **~52% YoY growth** across regions and categories
-- Identified **loss-making products** (Tables & Bookcases) despite high sales volume using SQL queries
-- Built KPI dashboard tracking Sales, Profit, Margin, and Quantity with region & category filters
-- **West region** drives 31.58% of revenue — Technology leads in both sales and profitability
-- **Stack:** Python · Pandas · SQLite · Power BI
 
 ---
 
