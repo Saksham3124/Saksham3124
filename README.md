@@ -60,14 +60,14 @@
 
 ---
 
-### 🛒 [Olist E-Commerce Delivery Performance Analysis](https://github.com/Saksham3124/olist-ecommerce-delivery-analysis)
-> End-to-end SQL analysis of 100,000+ orders identifying delivery failures, geographic risk patterns, and seller accountability gaps
+### 🏦 [Credit Risk Analytics](https://github.com/Saksham3124/credit-risk-analytics)
+> End-to-end credit risk analysis on 307,511 real loan applicants — identifying default patterns across demographics, bureau activity, and credit behavior
 
-- **8.11% late delivery rate** across 96,470 delivered orders — Northeast Brazil states show 2–3x the national average
-- Late delivery causes a **40% collapse in review scores** (4.29 → 2.57), directly quantifying business impact
-- Seller risk tiering using CASE-based classification across delay rate, revenue exposure, and review impact — built on a 7-table normalized PostgreSQL schema
-- Live **Tableau dashboard** with state-level map, monthly trend, and seller risk breakdown — [View Dashboard →](https://public.tableau.com/app/profile/kumar.saksham2703/viz/OlistDeliveryPerformanceAnalysis_17789432992130/OlistDeliverryAnalysis)
-- **Stack:** PostgreSQL · SQL · Tableau Public
+- Full pipeline: Python EDA + feature engineering → PostgreSQL business analysis → Tableau dashboard
+- Male applicants default at 45% higher rate than females — under-30s are highest risk segment at 11.47%
+- Bureau activity is the strongest default predictor — 41+ records show 1.7x higher default rate than low-activity customers
+- 4 SQL analysis layers: KPI generation, demographic analysis, credit behavior, advanced risk scoring
+- **Stack:** Python · PostgreSQL · SQL · Tableau | [Live Dashboard →](https://public.tableau.com/app/profile/kumar.saksham2703/viz/CreditRiskAnalysis_17802306468670/CreditRiskAnalyticsDashboard?publish=yes)
 
 ---
 
