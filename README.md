@@ -110,18 +110,6 @@ An automated analytics system that collects railway delay data, performs SQL-bas
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saksham3124&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham3124&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
 ## Connect
 
 - **LinkedIn** — https://linkedin.com/in/kumarsaksham/
