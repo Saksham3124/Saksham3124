@@ -77,7 +77,7 @@ A fraud and vendor-risk analytics solution analyzing **50K+ GST invoices** to id
 
 ---
 
-### Credit Risk Analytics & Decision Support
+### Credit Risk Analytics & Risk Narrative
 
 An end-to-end credit risk analytics solution analyzing **307K+ loan applications** to identify borrower segments and behavioral indicators associated with elevated default risk.
 
@@ -94,7 +94,7 @@ An end-to-end credit risk analytics solution analyzing **307K+ loan applications
 
 **Tech Stack**
 
-`Python` `SQL` `PostgreSQL` `Tableau`
+`Python` `SQL` `PostgreSQL` `Tableau` `Gemini API`
 
 **Repository**
 
