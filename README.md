@@ -87,6 +87,7 @@ An end-to-end credit risk analytics solution analyzing **307K+ loan applications
 * Statistical risk analysis
 * Demographic and credit-behavior analysis
 * Identified bureau activity as a key observed risk signal
+* Added an AI-assisted risk narrative layer generating evidence-cited summaries from validated statistics, independently verified before use
 * Applicants with 41+ bureau records showed a **1.7× higher default rate**
 * Borrowers under 30 recorded the highest default rate at **11.47%**
 * Interactive Tableau dashboard
