@@ -10,7 +10,7 @@ Data · Risk · Analytics · Operations
 
 I build analytical solutions that turn complex transactional and operational data into structured insights, risk signals, and decision-support tools.
 
-My work spans **customer analytics, risk and fraud analytics, statistical analysis, data quality, and operational monitoring**, combining analytical methods with practical implementation. I use Python, SQL, PostgreSQL, AWS, Tableau, and Power BI to analyze, validate, and communicate data-driven findings.
+My work spans **customer analytics, risk and fraud analytics, statistical analysis, data quality, and operational monitoring**. My projects combine analytical methods with practical implementation, from customer and risk analysis to statistical validation and data-quality systems.
 
 ---
 
@@ -21,8 +21,8 @@ My work spans **customer analytics, risk and fraud analytics, statistical analys
 * Statistical & Exploratory Analysis
 * SQL & Relational Data Analysis
 * Data Quality & Validation
-* Business Intelligence & Dashboarding
-* Data-Driven Decision Support
+* Decision Support & Dashboarding
+* Data-Driven Operations
 
 ---
 
@@ -38,7 +38,7 @@ An end-to-end customer analytics solution using the **dunnhumby Complete Journey
 * Customer segmentation and category affinity analysis
 * Methodology validation and scoring refinement
 * Identification of zero-inflation and department-size biases
-* Python → PostgreSQL analytical translation
+* Analytical workflow from Python to PostgreSQL
 * Cross-validation using Python, PostgreSQL, and AWS Athena
 * Three-page Power BI dashboard and recommendation memo
 * Identified 10 highly engaged households with strong category affinity and zero recorded campaign history
@@ -68,7 +68,7 @@ An end-to-end invoice analytics and vendor risk solution analyzing **50K+ GST in
 * **32 vendors classified as HIGH-risk**
 * Gemini API-based evidence-grounded risk narratives
 * **32 vendor narratives** connected to an interactive Tableau dashboard
-* AI layer designed to explain validated risk signals without modifying deterministic risk scores or tiers
+* Evidence-grounded AI explanations that preserve deterministic risk scores and tiers
 
 **Tech Stack**
 
@@ -82,7 +82,7 @@ An end-to-end invoice analytics and vendor risk solution analyzing **50K+ GST in
 
 ### DGCI&S Road E-Way Bill Data Quality & Reliability Pipeline
 
-An analytical data-quality and reliability system evaluating **10,089 E-Way Bill records** across FY2022–23 and FY2023–24.
+An analytical data-quality and reliability system processing 10,089 E-Way Bill records across FY2022–23 and FY2023–24, combining validation, reconciliation, and statistical analysis.
 
 **Key Highlights**
 
@@ -92,7 +92,7 @@ An analytical data-quality and reliability system evaluating **10,089 E-Way Bill
 * Automated reliability checks and PASS/FAIL validation
 * **7 controlled corruption scenarios**
 * **125 automated tests** covering missing records, duplicates, invalid values, structural defects, and a controlled **INR 500 Cr alteration**
-* Airflow-orchestrated processing with PostgreSQL-based trusted storage
+* Airflow-orchestrated validation and PostgreSQL-based trusted storage
 
 **Tech Stack**
 
@@ -111,20 +111,20 @@ An analytical data-quality and reliability system evaluating **10,089 E-Way Bill
 | Programming           | Python, SQL, MATLAB |
 | Data Analytics        | Pandas, NumPy, SciPy, Statistical Analysis, EDA |
 | Databases             | PostgreSQL |
-| Business Intelligence | Power BI, Tableau, Streamlit, Excel |
+| Analytics & BI        | Power BI, Tableau, Streamlit, Excel |
 | Cloud                 | AWS S3, Athena |
 | Data & Engineering    | ETL/ELT, Data Pipelines, Data Quality & Validation, Apache Airflow, Docker |
 | Tools                 | Git, Jupyter, APScheduler |
 
 ---
 
-## Currently Exploring
+## Areas of Interest
 
-* Advanced SQL and analytical query optimization
-* Statistical analysis and risk analytics
+* Product and customer analytics
+* Risk and statistical analysis
+* Data quality and analytical reliability
 * Cloud-based analytics and data workflows
-* Data quality and reliable analytical systems
-* Product and operational decision-support methods
+* Operational and decision-support systems
 
 ---
 
